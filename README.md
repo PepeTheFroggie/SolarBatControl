@@ -5,6 +5,7 @@ This project need a Shelly EM3 ($110), a batery capable 150W grid tie inverter (
 
 ![schematic.png](schematic.png "This way")
 
+The 2 black resistors are a voltage divider to measure battery voltage. They transform 30V into 1V, 30k and 1k if i remember correctly, and there is a 100uf C over the adc line which i forgot to draw.
 The 10 ohm resistor pre-charges the inverter condensers. Not optional. The two discharge relais are in parallel because the current can exceed the relais specs.
 The battery can be charged with a solar charger. Connect directly to batery not over DC-charger pin.
 
