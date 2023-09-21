@@ -11,7 +11,7 @@ The battery can be charged with a solar charger. Connect directly to batery not 
 Function:
 The device produces 150W or consumes 150W in order to flatten out the energy consumption / production.
 
-![untitled.png](untitled.png "Function")
+![Untitled.png](Untitled.png "Function")
 
 If shelly reports more than 200W solar excess the DC charger is activated. The charger is switched off if less than 10W excess solar.
 If shelly reports more than 200W consumption the inverter is switched on. Switched off at less than 10W consumption, or battery at 50%. Those levels are settable in "coinfig".
