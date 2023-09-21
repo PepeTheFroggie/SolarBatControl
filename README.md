@@ -18,3 +18,6 @@ If shelly reports more than 200W solar excess the DC charger is activated. The c
 If shelly reports more than 200W consumption the inverter is switched on. Switched off at less than 10W consumption, or battery low. Those levels are settable in "config".
 
 The communication relay - shelly is WiFi. The relay board has its own webserver showing the graph of battery voltage and energy consumption.
+
+This is how it handles my airfryer:
+![airfryer.png](airfryer.png "airfryer")
