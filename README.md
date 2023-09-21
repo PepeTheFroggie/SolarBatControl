@@ -21,3 +21,6 @@ The communication relay - shelly is WiFi. The relay board has its own webserver 
 
 This is how it handles my airfryer:
 ![airfryer.png](airfryer.png "airfryer")
+
+This is the settings page: 
+![Unti232tled.png](Unti232tled.png "settings")
